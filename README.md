@@ -1,0 +1,3 @@
+# Example repo
+
+For gohugo/io ...
